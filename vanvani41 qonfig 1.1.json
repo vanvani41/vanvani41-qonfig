@@ -1,0 +1,381 @@
+{
+    "defaultConfigVersion": 1,
+    "isDefaultConfig": false,
+    "useItalic": false,
+    "judgments": [
+      {
+        "threshold": 115,
+        "text": "<size=200%>15</size>",
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": true
+      },
+      {
+        "threshold": 114,
+        "text": "<size=125%>14</size>",
+        "color": [
+          0.5137,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 113,
+        "text": "<size=125%>13</size>",
+        "color": [
+          0.5137,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 112,
+        "text": "<size=125%>12</size>",
+        "color": [
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 111,
+        "text": "<size=125%>11</size>",
+        "color": [
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 110,
+        "text": "<size=125%>10</size>",
+        "color": [
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 109,
+        "text": "<size=125%>9</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 108,
+        "text": "<size=125%>8</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 107,
+        "text": "<size=125%>7</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 106,
+        "text": "<size=125%>6</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 105,
+        "text": "<size=125%>5</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 104,
+        "text": "<size=125%>4</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 103,
+        "text": "<size=125%>3</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 102,
+        "text": "<size=125%>2</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 101,
+        "text": "<size=125%>1</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 100,
+        "text": "<size=125%>0</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 99,
+        "text": "<size=125%>very good</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 90,
+        "text": "<size=125%>very good</size>",
+        "color": [
+          0.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 89,
+        "text": "<size=125%>good</size>",
+        "color": [
+          1.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 80,
+        "text": "<size=125%>good</size>",
+        "color": [
+          1.0,
+          1.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 79,
+        "text": "<size=125%>okay</size>",
+        "color": [
+          1.0,
+          0.35,
+          0.0,
+          1.0
+        ],
+        "fade": true
+      },
+      {
+        "threshold": 70,
+        "text": "<size=125%>okay</size>",
+        "color": [
+          1.0,
+          0.35,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 69,
+        "text": "<size=200%>69</size>",
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 68,
+        "text": "<size=125%>okay</size>",
+        "color": [
+          1.0,
+          0.35,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 53,
+        "text": "<size=125%>okay</size>",
+        "color": [
+          1.0,
+          0.35,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 52,
+        "text": "<size=200%>52</size>",
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 51,
+        "text": "<size=125%>okay</size>",
+        "color": [
+          1.0,
+          0.35,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 50,
+        "text": "<size=125%>okay</size>",
+        "color": [
+          0.5,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 49,
+        "text": "<size=125%>BAD</size>",
+        "color": [
+          0.5,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 11,
+        "text": "<size=125%>BAD</size>",
+        "color": [
+          0.5,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 10,
+        "text": "<size=125%>VERY BAD</size>",
+        "color": [
+          0.5,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 2,
+        "text": "<size=200%>bro that's 2</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 1,
+        "text": "<size=200%>bro that's 1</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+    {
+        "threshold": 0,
+        "text": "<size=200%>bro that's 0</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      }
+     ]
+  }
