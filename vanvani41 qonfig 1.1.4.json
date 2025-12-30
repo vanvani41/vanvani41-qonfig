@@ -1,6 +1,7 @@
 {
     "defaultConfigVersion": 1,
     "isDefaultConfig": false,
+    "useItalic": false,
     "judgments": [
       {
         "threshold": 115,
@@ -466,3 +467,4 @@
       }
      ]
   }
+
