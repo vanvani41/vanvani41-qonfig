@@ -2,7 +2,7 @@
     "defaultConfigVersion": 1,
     "isDefaultConfig": false,
     "useItalic": false,
-    "judgments": [
+"judgments": [
       {
         "threshold": 115,
         "text": "<size=200%>15</size>",
@@ -213,19 +213,8 @@
         "fade": false
       },
       {
-        "threshold": 80,
+        "threshold": 70,
         "text": "<size=125%>good</size>",
-        "color": [
-          1.0,
-          1.0,
-          0.0,
-          1.0
-        ],
-        "fade": false
-      },
-      {
-        "threshold": 79,
-        "text": "<size=125%>okay</size>",
         "color": [
           1.0,
           0.35,
@@ -233,17 +222,6 @@
           1.0
         ],
         "fade": true
-      },
-      {
-        "threshold": 70,
-        "text": "<size=125%>okay</size>",
-        "color": [
-          1.0,
-          0.35,
-          0.0,
-          1.0
-        ],
-        "fade": false
       },
       {
         "threshold": 69,
@@ -258,6 +236,28 @@
       },
       {
         "threshold": 68,
+        "text": "<size=125%>okay</size>",
+        "color": [
+          1.0,
+          0.35,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 67,
+        "text": "<size=200%>67</size>",
+        "color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 66,
         "text": "<size=125%>okay</size>",
         "color": [
           1.0,
@@ -304,8 +304,8 @@
         "threshold": 50,
         "text": "<size=125%>okay</size>",
         "color": [
-          0.5,
-          0.0,
+          1.0,
+          0.35,
           0.0,
           1.0
         ],
@@ -323,7 +323,7 @@
         "fade": false
       },
       {
-        "threshold": 11,
+        "threshold": 30,
         "text": "<size=125%>BAD</size>",
         "color": [
           0.5,
@@ -334,10 +334,98 @@
         "fade": false
       },
       {
-        "threshold": 10,
+        "threshold": 29,
         "text": "<size=125%>VERY BAD</size>",
         "color": [
-          0.5,
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 10,
+        "text": "<size=200%>VERY BAD</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 9,
+        "text": "<size=200%>bro that's 9</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 8,
+        "text": "<size=200%>bro that's 8</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 7,
+        "text": "<size=200%>bro that's 7</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 6,
+        "text": "<size=200%>bro that's 6</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 5,
+        "text": "<size=200%>bro that's 5</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 4,
+        "text": "<size=200%>bro that's 4</size>",
+        "color": [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "fade": false
+      },
+      {
+        "threshold": 3,
+        "text": "<size=200%>bro that's 3</size>",
+        "color": [
+          1.0,
           0.0,
           0.0,
           1.0
@@ -366,9 +454,9 @@
         ],
         "fade": false
       },
-    {
+      {
         "threshold": 0,
-        "text": "<size=200%>bro that's 0</size>",
+        "text": "<size=250%>HOW DID YOU GOT A ZERO?!?!</size>",
         "color": [
           1.0,
           0.0,
@@ -377,5 +465,5 @@
         ],
         "fade": false
       }
-     ]
+     ],
   }
