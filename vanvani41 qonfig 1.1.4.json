@@ -1,8 +1,7 @@
 {
     "defaultConfigVersion": 1,
     "isDefaultConfig": false,
-    "useItalic": false,
-"judgments": [
+    "judgments": [
       {
         "threshold": 115,
         "text": "<size=200%>15</size>",
@@ -467,3 +466,4 @@
       }
      ],
   }
+
